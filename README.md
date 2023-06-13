@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronjohnson-owuor
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning at self -taught
+- 🌱 I’m  self -taught
 - 💞️ I am a coding enthusiast who  who likes working on projects
 - 📫 How to reach me ronjohnsonowuor83@gmail.com
 

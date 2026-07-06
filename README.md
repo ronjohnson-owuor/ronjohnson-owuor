@@ -4,12 +4,19 @@
 I build; **Web Applications, Mobile Applications**  and also I like working on **technological tools** that simplify work, improve workflows, and solve real-world problems.
 
 #**Tech Stack:**
+<br/>
 . JavaScript & TypeScript
+<br/>
 . React & React Native
+<br/>
 . HTML, CSS & Tailwind CSS
+<br/>
 . Git & Version Control
+<br/>
 . MySQL & PostgreSQL
+<br/>
 . AWS deployment pipeline
+<br/>
 
 
 I am curreently working on Tooling and Saas product 

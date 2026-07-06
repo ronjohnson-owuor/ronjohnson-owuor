@@ -3,7 +3,7 @@
 
 I build; **Web Applications, Mobile Applications**  and also I like working on **technological tools** that simplify work, improve workflows, and solve real-world problems.
 
-#**Tech Stack:**
+**#Tech Stack:**
 <br/>
 . JavaScript & TypeScript
 <br/>

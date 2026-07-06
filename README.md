@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ron,
+**Software Engineer | security Engineer**
 
-<!--
-**ronjohnson-owuor/ronjohnson-owuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build; **Web Applications, Mobile Applications**  and also I like working on **technological tools** that simplify work, improve workflows, and solve real-world problems.
 
-Here are some ideas to get you started:
+#**Tech Stack:**
+. JavaScript & TypeScript
+. React & React Native
+. HTML, CSS & Tailwind CSS
+. Git & Version Control
+. MySQL & PostgreSQL
+. AWS deployment pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am curreently working on Tooling and Saas product 
+
+If you'd like to collaborate on a project or discuss an opportunity, feel free to reach out.
+**Email: ronjohnsonowuor83@gmail.com**

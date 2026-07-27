@@ -1,26 +1,23 @@
-# Hi, I'm Ronjohnson,
-**Software Engineer | security Engineer**
+# Hi, I'm Ron Johnson ,
+**Cybersecurity Engineer**
 
-I build; **Web Applications, Mobile Applications**  and also I like working on **technological tools** that simplify work, improve workflows, and solve real-world problems.
+I am very passionate about building security tools, discovering vulnerabilities and protecting systems from cyber threats.I  helps organizations identify risks, strengthen their defenses, and secure their infrastructure from malicious attacks.
+My mission and purpose is to make technology safer for everybody (Individual or Organisation ).
 
 # **Tech Stack:**
 <br/>
-. JavaScript & TypeScript
+. Python
 <br/>
-. React & React Native
-<br/>
-. HTML, CSS & Tailwind CSS
+. Linux & Bash
 <br/>
 . Git & Version Control
 <br/>
-. MySQL & PostgreSQL
+. Networking
 <br/>
-. AWS deployment pipeline
+.Website Security
 <br/>
-
-
-# currently
-I am currently building developer tools  and  working on personal Saas products. 
+. Cybersecurity tooling (wireshark,Nmap,Burpsuite)
+<br/>
 
 # collaborations & contact
 If you'd like to collaborate on a project or discuss an opportunity, feel free to reach out.

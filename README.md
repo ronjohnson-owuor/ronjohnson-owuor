@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ronjohnson-owuor-910881226/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://vm.tiktok.com/ZS9B4EwQyK5BF-4YTtK/"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
-I am very passionate about discovering vulnerabilities and protecting systems from cyber threats.I helps organizations identify risks, strengthen their defenses, and secure their infrastructure from malicious attacks.
+I am a **Cybersecurity Researcher,** am  very passionate about discovering vulnerabilities and protecting systems from cyber threats.I helps organizations identify risks, strengthen their defenses, and secure their infrastructure from malicious attacks.
 
 ## Objective
 

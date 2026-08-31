@@ -1,5 +1,5 @@
 # Hi, I'm Ron Johnson ,
-**Cybersecurity Engineer**
+**Cybersecurity Researcher**
 
 I am very passionate about building security tools, discovering vulnerabilities and protecting systems from cyber threats.I  helps organizations identify risks, strengthen their defenses, and secure their infrastructure from malicious attacks.
 My mission and purpose is to make technology safer for everybody (Individual or Organisation ).

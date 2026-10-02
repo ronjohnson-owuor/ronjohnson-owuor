@@ -1,6 +1,7 @@
 # Hello, I'm RONJOHNSON OWUOR,
 <a href="https://www.linkedin.com/in/ronjohnson-owuor-910881226/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@nill_cybersecurity"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://t.me/+uEZgarXa--AwNDk0"><img src="https://img.shields.io/badge/-Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 I am a **Cybersecurity Researcher,** am  very passionate about discovering vulnerabilities and protecting systems from cyber threats.I helps organizations identify risks, strengthen their defenses, and secure their infrastructure from malicious attacks.
 
@@ -10,14 +11,16 @@ As a cybersecurity researcher, my main driving force and mission is to make tech
 
 ## Skills
 
-<!-- | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
+| Skill                                      | Associated Certification |
+|--------------------------------------------|---------------------------|
+| Security Fundamentals & Risk Management    | Google Cybersecurity Certificate |
+| Threat Identification & Analysis           | Google Cybersecurity Certificate |
+| Network Security                            | Google Cybersecurity Certificate |
+| SIEM & Security Monitoring                 | Google Cybersecurity Certificate |
+| Incident Response                          | Google Cybersecurity Certificate |
+| Linux & SQL for Cybersecurity              | Google Cybersecurity Certificate |
+| Python for Cybersecurity                   | Google Cybersecurity Certificate |
+| Vulnerability Management                   | Google Cybersecurity Certificate |
 
 ## **Tools**
 
@@ -86,8 +89,6 @@ As a cybersecurity researcher, my main driving force and mission is to make tech
 
 
 ## Certifications
-<!-- still working on certifications -->
-## Certifications
 
 <a href="https://coursera.org/share/b28fe532383c2e2082248a95f92ff96c">
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -97,5 +98,5 @@ As a cybersecurity researcher, my main driving force and mission is to make tech
 *Google | Coursera*  
 [View Certificate](https://coursera.org/share/b28fe532383c2e2082248a95f92ff96c)
 
-## Projects
+<!--## Projects-->
 
